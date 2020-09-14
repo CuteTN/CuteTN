@@ -9,8 +9,6 @@
         /* CuteTN */
     </p>
 </div>
-
-
 ----
 
 <h1 style="text-align: center; font-family: Comic Sans MS">
@@ -26,14 +24,12 @@
 <h2 style="background: linear-gradient(90deg, #ffb8c9, #ffffff); border-radius: 20px; font-family: Comic Sans MS">
     🐶 Experience:
 </h2>
-
 <div style="">
-    <img src="images\AthenaStudioLogo.png" alt="AthenaStudioLogo" style="width: 100px; float: left" />
+    <img src="images\AthenaStudioLogo.png" alt="AthenaStudioLogo" style="width: 70px; float: left" />
     <p style="vertical-align: middle;">
         👉 <em>Jul-Sep, 2019</em>: Despite having just completed my first year at University, I was very lucky to be an <a href="https://athena.studio">Athena Studio</a>'s member as a fresher of <strong>Mobile Game Fresher Program</strong>! From here, I've learnt a lot about the game industry, the way to design and develop a mobile game using <strong>Unity</strong>, and lots of other priceless knowledge! Thank you so much Athena!!! 🤗
     </p>
 </div>
-
 <h2 style="background: linear-gradient(90deg, #ff9eb5, #ffffff); border-radius: 20px; font-family: Comic Sans MS"">
     🐹 Skill:
 </h2>
