@@ -7,7 +7,7 @@
 <h1 style="text-align: center; font-family: Comic Sans MS">
     Welcome to my Github profile!
 </h1>
-> **Warning:** this is the simplified version to fit in my GitHub profile page. If you want to view the complete version, please clone this project to your PC and view the file: **README - StyleVer**. Thanks!
+You can also visit my website here: https://cutetn.github.io
 
 <h2 style="background: linear-gradient(90deg, #ff9eb5, #ffffff); border-radius: 20px; font-family: Comic Sans MS">
     🐱 Brief info:
